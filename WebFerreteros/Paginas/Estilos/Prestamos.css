@@ -1,0 +1,19 @@
+#labelSubtotal, #txtSubtotal{
+    display: inline;
+}
+
+#txtSubtotal{
+    width: 70%;
+}
+
+.cursor:hover{
+    cursor: pointer;
+}
+
+#dvBuscar{
+    align-items: flex-end;
+}
+
+.datosPrestamo, .historial {
+  display: none;
+}

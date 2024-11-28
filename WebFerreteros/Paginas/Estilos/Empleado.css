@@ -1,0 +1,11 @@
+#labelEsUsuario, #cbEsUsuario{
+    display: inline;
+}
+
+.row{
+    align-items: flex-end;
+}
+
+.actualizar, .usuario, .actualizar-encontrado {
+  display: none;
+}
